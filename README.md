@@ -20,11 +20,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/fatcat529/fatcat529/blob/master/busyprogrammer.gif?raw=true" width="50%" height="auto" />
 
-
-### ☎️ Contact me
-*   <p><b>Telegram:</b> @fatcat529</p>
-*   <p><b>Discord:</b> fatcat529</p>
-
 ### 🏆 Experience
 * 💪   Encouraging people for open source collaborations.
 * 🌱   Currently learning Linux, Rust, Math & Philosophy.
