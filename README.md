@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;12+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=00C2FF&vCenter=true&size=45%22"></img>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;6+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=00C2FF&vCenter=true&size=45%22"></img>
 </p>
 
 <img align="right" alt="GIF" src="https://github.com/fatcat529/fatcat529/blob/master/busyprogrammer.gif?raw=true" width="50%" height="auto" />
@@ -24,8 +24,8 @@
 * 💪   Encouraging people for open source collaborations.
 * 🌱   Currently learning Linux, Rust, Math & Philosophy.
 * 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.80/4.0, GPA 3.7/4.0, TOP 5%.
-* 💻   With 4 years' computer science and technology education and 12 years' development working experience.
-* ⛵   Vetted Senior Full-Stack & Blockchain engineer with 12+ years of hands-on experience in software development field.
+* 💻   With 4 years' computer science and technology education and 6 years' development working experience.
+* ⛵   Vetted Senior Full-Stack & Blockchain engineer with 6+ years of hands-on experience in software development field.
 * 🌈   Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency.
 
 <!-- ### 🧑 A little more about me
